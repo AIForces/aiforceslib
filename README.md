@@ -1,5 +1,7 @@
 # AIForcesLIB
 
+[![Documentation Status](https://readthedocs.org/projects/aiforceslib/badge/?version=latest)](https://aiforceslib.readthedocs.io/en/latest/?badge=latest)
+
 ## Authors
 
 * **Aleksandr Alekseev ([aalekseevx](https://github.com/aalekseevx))**
